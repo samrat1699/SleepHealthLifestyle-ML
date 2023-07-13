@@ -65,10 +65,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact Information
 
-For any inquiries or questions related to this project, please contact [Samrat Kumar Dev Sharma] at [samratdev151@gmail.com].
+For any inquiries or questions related to this project, please contact Samrat Kumar Dev Sharma at samratdev151@gmail.com
 
-Feel free to customize this README file based on your specific project details, folder structure, and additional information you want to provide. Make sure to include proper documentation, licensing information, and instructions for running the code or reproducing the analysis.
-
-Remember to update the contact information and project-specific details accordingly.
-
-Good luck with your sleep health and lifestyle analysis project!
