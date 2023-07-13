@@ -19,7 +19,7 @@ The dataset used for this analysis consists of sleep-related data collected from
 
 To run the code in this repository, the following dependencies are required:
 
-- Python (version X.X.X)
+- Python (version 3.10.10)
 - Jupyter Notebook
 - Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, etc.
 
